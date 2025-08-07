@@ -1,0 +1,54 @@
+{
+  "common": {
+    "send": "Send",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "confirm": "Confirm",
+    "file": "File",
+    "folder": "Folder",
+    "upload": "Upload",
+    "attach": "Attach",
+    "workspace": "Workspace",
+    "settings": "Settings",
+    "system": "System"
+  },
+  "conversation": {
+    "welcome": {
+      "title": "Hi, what can I help with?",
+      "placeholder": "Send a message, upload files, or open a folder...",
+      "uploadFile": "Upload Files",
+      "linkFolder": "Open Folder",
+      "newConversation": "New Chat"
+    },
+    "history": {
+      "today": "Today",
+      "yesterday": "Yesterday",
+      "recent7Days": "Last 7 Days",
+      "earlier": "Earlier",
+      "noHistory": "No chat history",
+      "deleteTitle": "Delete chat",
+      "deleteConfirm": "Are you sure you want to delete this chat?"
+    },
+    "workspace": {
+      "title": "Workspace",
+      "empty": "It's empty",
+      "emptyDescription": "Files will appear here after uploading files or opening a folder"
+    }
+  },
+  "settings": {
+    "authMethod": "Authentication",
+    "geminiApiKey": "Gemini API Key(API Studio)",
+    "vertexApiKey": "Vertex AI",
+    "personalAuth": "Login with Google",
+    "proxyConfig": "Proxy",
+    "tempDir": "Temporary Directory",
+    "language": "Language"
+  },
+  "messages": {
+    "conversationInProgress": "A conversation is currently in progress...",
+    "confirm": "Confirm",
+    "canceledExecution": "Execution canceled",
+    "openLinkFailed": "Failed to open link"
+  }
+}

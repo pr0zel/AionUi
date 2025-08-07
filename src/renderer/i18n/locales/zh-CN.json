@@ -1,0 +1,54 @@
+{
+  "common": {
+    "send": "发送",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "confirm": "确定",
+    "file": "文件",
+    "folder": "文件夹",
+    "upload": "上传",
+    "attach": "附件",
+    "workspace": "工作空间",
+    "settings": "设置",
+    "system": "系统"
+  },
+  "conversation": {
+    "welcome": {
+      "title": "你好，有什么可以帮你的？",
+      "placeholder": "发消息、上传文件或打开文件夹...",
+      "uploadFile": "上传文件",
+      "linkFolder": "打开文件夹",
+      "newConversation": "新对话"
+    },
+    "history": {
+      "today": "今天",
+      "yesterday": "昨天",
+      "recent7Days": "最近7天",
+      "earlier": "更早",
+      "noHistory": "暂无对话历史",
+      "deleteTitle": "删除对话",
+      "deleteConfirm": "确定删除该对话吗？"
+    },
+    "workspace": {
+      "title": "工作空间",
+      "empty": "工作空间为空",
+      "emptyDescription": "上传文件或打开文件夹后，文件将显示在这里"
+    }
+  },
+  "settings": {
+    "authMethod": "认证",
+    "geminiApiKey": "Gemini API 密钥 (API Studio)",
+    "vertexApiKey": "Vertex AI",
+    "personalAuth": "Google帐号登录",
+    "proxyConfig": "代理",
+    "tempDir": "临时目录",
+    "language": "语言"
+  },
+  "messages": {
+    "conversationInProgress": "当前正在进行对话中...",
+    "confirm": "确认",
+    "canceledExecution": "已取消执行",
+    "openLinkFailed": "打开链接失败"
+  }
+}
