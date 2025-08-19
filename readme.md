@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <strong>English</strong> | <a href="./readme_ch.md">简体中文</a> | <a href="https://www.aionui.com" target="_blank">Official Site</a> | <a href="https://twitter.com/AionUI" target="_blank">Twitter</a>
+  <strong>English</strong> | <a href="./readme_ch.md">简体中文</a> | <a href="./readme_jp.md">日本語</a> | <a href="https://www.aionui.com" target="_blank">Official Site</a> | <a href="https://twitter.com/AionUI" target="_blank">Twitter</a>
 </p>
 
 <p align="center">

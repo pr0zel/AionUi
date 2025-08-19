@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="./readme.md">English</a> | <a href="./readme_ch.md">简体中文</a> | <strong>日本語</strong> | <a href="https://www.aionui.com" target="_blank">官网</a> | <a href="https://twitter.com/AionUI" target="_blank">Twitter</a>
+  <a href="./readme.md">English</a> | <a href="./readme_ch.md">简体中文</a> | <strong>日本語</strong> | <a href="https://www.aionui.com" target="_blank">公式サイト</a> | <a href="https://twitter.com/AionUI" target="_blank">X(旧ツイッター)</a>
 </p>
 
 <p align="center">
@@ -53,8 +53,8 @@
   - [🔑 API 設定](#-API-設定)
   - [🌐 プロキシ設定](#-プロキシ設定)
 - [🚀 今後の展望](#-今後の展望)
-  - [📍 现在在哪](#-现在在哪)
-  - [🎯 要去哪里](#-要去哪里)
+  - [📍 現状](#-現状)
+  - [🎯 私たちの未来像](#-私たちの未来像)
 - [📄 许可证](#-许可证)
 - [🤝 贡献](#-贡献)
 
@@ -207,64 +207,66 @@ AionUI/
 
 AionUi は、Gemini CLI の強力な GUI インターフェースとして、強化されたチャット体験、ファイル管理、開発ワークフローの最適化を実現します。
 
-### 🎯 要去哪里
+### 🎯 私たちの未来像
 
-我们设想 AionUi 将发展成为一个**通用智能体平台**，让普通用户也能使用强大的 AI 智能体来处理日常工作：
+AionUi は、誰もが強力な AI エージェントを自由に使いこなせる**ユニバーサル AI エージェントプラットフォーム**へと進化させていきたいと考えています：
 
-#### 🤖 **多智能体生态系统**
+#### 🤖 **マルチエージェントエコシステム**
 
-- **终端智能体**：从 Gemini CLI 开始，扩展到其他基于终端的智能体
-- **浏览器智能体**：集成开源浏览器自动化智能体来处理网页任务
-- **统一体验**：适用于所有智能体类型的简单聊天界面
-- **智能体发现**：轻松访问新推出的智能体
+- **ターミナルエージェント**：「Gemini CLI」をはじめとする、ターミナルベースのエージェントを拡張していきます。
+- **ブラウザエージェント**：ウェブ上のタスクを自動化できるよう、オープンソースのブラウザエージェントを統合します。
+- **シームレスな体験**：どの種類のエージェントも、シンプルで使いやすいチャットインターフェースで操作できます。
+- **エージェントの発見**：新しいエージェントも簡単に見つけ、すぐに利用を開始できます。
 
-#### 🔄 **灵活的 LLM 绑定**
+#### 🔄 **多様な LLM バインディング**
 
-- **多 LLM 支持**：将不同的语言模型（Gemini、Claude、GPT 等）绑定到任何智能体
-- **模型切换**：轻松在不同 LLM 之间切换，而无需改变工作流
-- **自定义配置**：为每个模型独立配置 API 密钥和设置
+- **マルチ LLM サポート**：Gemini、Claude、GPT など、複数の言語モデルをあらゆるエージェントに自在に接続できます。
+- **モデルの切り替え**：ワークフローを変更することなく、異なる LLM 間で簡単に切り替えが可能。
+- **カスタム設定**：各モデルの API キーや設定を個別にカスタマイズできます。
 
-#### 🎯 **让 AI 智能体触手可及**
+#### 🎯 **AI エージェントを、誰もが使いこなせる存在に**
 
-我们的目标是让强大的 AI 智能体为所有人所用，而不仅仅是开发者。我们相信：
+私たちのゴールは、パワフルな AI エージェントを、開発者だけでなく、すべての人々が簡単に利用できるようにすることです。私たちは、以下の価値を大切にしています。
 
-- **复杂任务应该感觉简单**：用户不应该需要为不同的智能体学习不同的界面
-- **AI 应该适应用户**：而不是相反
-- **开源很重要**：我们优先集成开源智能体，确保透明度和社区控制
-- **聊天是通用的**：简单的对话界面可以处理复杂的工作流
+- **複雑さを感じさせない体験**：ユーザーは、エージェントごとに異なる操作方法を覚える必要はありません。複雑なタスクも、直感的にシンプルに感じられるべきです。
+- **AI はユーザーに適応する**：テクノロジーがユーザーに合わせるべきであり、その逆ではありません。
+- **オープンソースの重要性**：透明性とコミュニティによるコントロールを確保するため、私たちはオープンソースのエージェントの統合を最優先しています。
+- **チャットは万能**：シンプルなチャット形式のインターフェースが、複雑なワークフローを円滑に処理します。
 
-AionUi 旨在弥合强大 AI 能力与日常可用性之间的差距，让复杂的 AI 智能体像与朋友聊天一样简单易用。
-
----
-
-## 📄 许可证
-
-本项目采用 [Apache-2.0](LICENSE) 许可证。
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-1. Fork 本项目
-2. 创建功能分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开 Pull Request
+AionUI は、最先端の AI と日常の使いやすさの橋渡しをします。複雑な AI エージェントを、まるで友人と会話するような手軽さで、誰もが使いこなせるようにデザインされています。
 
 ---
 
-## 📊 Star 历史
+## 📄 ライセンス
+
+本プロジェクトは [Apache-2.0](LICENSE) ライセンスを採用しています。
+
+## 🤝 貢献について
+
+Issue や Pull Request による貢献を心より歓迎します！
+
+貢献の手順
+
+1. 本プロジェクトをフォークします。
+2. フィーチャーブランチを作成します (`git checkout -b feature/AmazingFeature`)
+3. 変更をコミットします (`git commit -m 'Add some AmazingFeature'`)
+4. ブランチにプッシュします (`git push origin feature/AmazingFeature`)
+5. Pull Request を作成します。
+
+---
+
+## 📊 Star 履歴
 
 <p align="center">
   <a href="https://www.star-history.com/#office-sec/aionui&Date" target="_blank">
-    <img src="https://api.star-history.com/svg?repos=office-sec/aionui&type=Date" alt="GitHub 星星趋势" width="600">
+    <img src="https://api.star-history.com/svg?repos=office-sec/aionui&type=Date" alt="GitHubスターの推移" width="600">
   </a>
 </p>
 
 <div align="center">
 
-**⭐ 如果喜欢就给我们一个星吧**
+**⭐ もしよろしければ、ぜひ Star をお願いします！**
 
-[报告 Bug](https://github.com/office-sec/AionUi/issues) · [创建功能请求](https://github.com/office-sec/AionUi/issues)
+[バグを報告](https://github.com/office-sec/AionUi/issues) · [新機能をリクエスト](https://github.com/office-sec/AionUi/issues)
 
 </div>
